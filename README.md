@@ -6,3 +6,18 @@ A python-based defensive cybersecurity tool for monitoring suspicious processes 
 <br>1. Monitoring currently running system process. <br>2. Identify potentially suspicious process names.<br>3. Display Process ID(PID).
 <br>4. Moniter CPU and memory usage.<br>5. Analyze the executable process path.<br>6. Calculate SHA-256 hash of an executable file.<br>7. Generate a timestamped detection report.<br>8. Perform continuous real-time process monitoring.
 <br>**Technology Used** <br>1. **Programming Language**= Python<br>2.**Library**= psutil
+
+
+<br>## ⚙️ Installation
+
+### Prerequisites
+
+Before running this project, make sure you have:
+
+- Python 3.8 or higher
+- Git (optional, for cloning the repository)
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/YOUR-USERNAME/Keylogger-Detection-System.git
