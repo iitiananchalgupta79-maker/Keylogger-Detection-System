@@ -21,3 +21,22 @@ Before running this project, make sure you have:
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/Keylogger-Detection-System.git
+```
+
+### 2. Navigate to the Project Directory
+
+```bash
+cd Keylogger-Detection-System
+```
+
+### 3. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the Project
+
+```bash
+python detector.py
+```
